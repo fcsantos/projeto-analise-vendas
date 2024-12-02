@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "aula 3 - análise de dados e gráficos no python"
+version = "0.1.0"
+description = ""
+authors = ["Felipe Santos <fcsantos.ap@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
