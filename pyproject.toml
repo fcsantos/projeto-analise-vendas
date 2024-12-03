@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 pandas = "^2.2.3"
+plotly-express = "^0.4.1"
+streamlit = "^1.40.2"
+openpyxl = "^3.1.5"
 
 
 [build-system]
