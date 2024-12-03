@@ -5,3 +5,4 @@ Usando as bibliotecas: Pandas e Plotly
 
 #### OBS:
   - foi feito um deploy no streamlit para testes, no caso é só fazer o download do arquivo `vendas.xlsx` que se encontra aqui no repositorio
+  - segue o link para testes: `https://projeto-dashboards-pedidos.streamlit.app/`
